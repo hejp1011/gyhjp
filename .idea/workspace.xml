@@ -150,8 +150,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="200" />
-    <option name="y" value="73" />
+    <option name="x" value="115" />
+    <option name="y" value="23" />
     <option name="width" value="1050" />
     <option name="height" value="819" />
   </component>
@@ -173,12 +173,6 @@
               <item name="gyhjp" type="b2602c69:ProjectViewProjectNode" />
               <item name="gyhjp" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gyhjp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gyhjp" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -383,7 +377,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="200" y="73" width="1050" height="819" extended-state="0" />
+    <frame x="115" y="23" width="1050" height="819" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42323232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -497,13 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -515,6 +502,13 @@
             <marker date="1563868544438" expanded="true" signature="115:187" ph="..." />
             <marker date="1563868544438" expanded="true" signature="422:427" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
